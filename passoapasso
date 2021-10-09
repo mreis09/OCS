@@ -4,3 +4,10 @@ Site Oficial do Projeto: https://ocsinventory-ng.org/
 # Vídeo de instalação do GNU/Linux Ubuntu Server 18.04.x LTS: https://www.youtube.com/watch?v=zDdCrqNhIXI
 # Vídeo de configuração do OpenSSH no GNU/Linux Ubuntu Server 18.04.x LTS: https://www.youtube.com/watch?v=ecuol8Uf1EE&t
 # Vídeo de instalação do LAMP Server: https://www.youtube.com/watch?v=6EFUu-I3u4s&t
+
+instalacao manuel do lamp
+sudo apt update; sudo apt upgrade
+# Instale o servidor web Apache
+sudo apt install -y apache2 apache2-utils
+https://ubunlog.com/pt/lamp-instala-apache-mariadb-php-ubuntu-20-04/#Instalar_LAMP_en_Ubuntu_2004
+
